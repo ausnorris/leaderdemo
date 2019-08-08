@@ -14,7 +14,7 @@ var PlayerSelector = React.createClass({
         <button className="inc" onClick={this.props.onAddPoints}>Add 5 point</button>
       </div>;
     } else {
-      node = <div className="message">Click a VCDX to select</div>;
+      node = <div className="message">Click a gun to select</div>;
     }
 
     return node;

@@ -7,8 +7,8 @@ var Body = React.createClass({
       <div className="app">
         <div className="outer">
           <div className="logo"></div>
-          <h1 className="title">"Best Looking" VCDX Leaderboard</h1>
-          <div className="subtitle">Select a VCDX to give them points</div>
+          <h1 className="title">Favourite Australian Made Military Rifle Poll</h1>
+          <div className="subtitle">Select a rifle to give points</div>
           <Leaderboard />
         </div>
       </div>
